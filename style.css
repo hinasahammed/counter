@@ -28,16 +28,25 @@ body{
     font-size: 50px;
     color: #EBFCFB;
     position: absolute;
-    left: 60px;
+    left: 40px;
     top: 150px;
 }
 .minusbtn .far{
     font-size: 50px;
     color: #EBFCFB;
     position: absolute;
-    right: 60px;
+    right: 40px;
     top: 150px;
 }
+
+.clearbtn .fas{
+    font-size: 45px;
+    color: #EBFCFB;
+    position: absolute;
+    left: 105px;
+    top: 150px;
+}
+
 #num{
     text-align: center;
     font-size: 60px;
