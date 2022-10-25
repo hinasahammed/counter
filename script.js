@@ -10,3 +10,8 @@ function minus(){
   let num=Number(val)-1
   document.getElementById("num").innerHTML=num;
 }
+
+function clearAll(){
+  let num=0;
+  document.getElementById("num").innerHTML=num;
+}
