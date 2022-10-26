@@ -1,2 +1,2 @@
-This is a counter for digital logic and computing......
+This is a counter for digital logic and computing-----
 
