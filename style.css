@@ -39,12 +39,12 @@ body{
     top: 150px;
 }
 
-.clearbtn .fas{
+.clearbtn .far{
     font-size: 45px;
-    color: #EBFCFB;
+    color: #fb8500;
     position: absolute;
     left: 105px;
-    top: 150px;
+    top: 190px;
 }
 
 #num{
